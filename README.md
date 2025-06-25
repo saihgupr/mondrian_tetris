@@ -3,6 +3,8 @@
 
 A simple Tetris game implemented in Python using the Pygame library. This version features a "Petite Mondrian" color scheme for a unique visual style.
 
+<img src="https://i.imgur.com/iXXrYjZ.png" width="300" />
+
 ## Features
 
 *   Classic Tetris gameplay
