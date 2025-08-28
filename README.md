@@ -79,7 +79,7 @@ Inspired by Piet Mondrian's "Composition with Red, Blue, and Yellow":
 ## 🎬 Game Demo
 
 <video width="100%" controls>
-  <source src="Untitled.mov" type="video/quicktime">
+  <source src="https://i.imgur.com/pmyRGaH.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
