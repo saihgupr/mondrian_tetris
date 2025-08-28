@@ -7,7 +7,7 @@ A classic Tetris game with a "Petite Mondrian" color scheme, built with HTML5 Ca
 
 ## 🎮 Play Online
 
-Simply open `index.html` in any modern web browser to start playing immediately. No installation or dependencies required!
+[Play it here](https://incredible-queijadas-f39509.netlify.app/) to start playing immediately. No installation or dependencies required!
 
 ## 🎨 Features
 
