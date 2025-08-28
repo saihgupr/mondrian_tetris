@@ -2,7 +2,7 @@
 # Mondrian Tetris
 
 <p align="center">
-  <img src="https://i.imgur.com/MsfprUr.png" alt="Mondrian Tetris Game" width="50%">
+  <img src="https://i.imgur.com/MsfprUr.png" alt="Mondrian Tetris Game" width="33%">
 </p>
 
 A classic Tetris game with a "Petite Mondrian" color scheme, built with HTML5 Canvas and JavaScript. Play directly in your web browser!
